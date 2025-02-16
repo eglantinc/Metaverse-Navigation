@@ -5,7 +5,7 @@
 Un agent se déplace dans un univers virtuel représenté par une grille de taille **N × N**. L'agent a une couleur de départ et chaque cellule possède une couleur. Il ne peut pas se déplacer sur une cellule ayant la même couleur que lui, mais il peut changer sa couleur pour un coût de 10. Ce projet a été complété dans le cadre du cours Structure de données et Algorithmes (INF3105) à l'Université du Québec à Montréal.
 
 ## Auteure
-**Nom : [Églantine Clervil]**  
+**Nom : Églantine Clervil**  
 
 Les déplacements sont possibles horizontalement et verticalement avec un coût de 1.
 
